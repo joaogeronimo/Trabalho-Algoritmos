@@ -11,7 +11,7 @@
 
 int main()
 {
-    /// Trabalho (parte 1) da disciplina de algoritmos.
+    /// Trabalho da disciplina de algoritmos.
 
     char coluna;
     char vet[TAM][TAM];
